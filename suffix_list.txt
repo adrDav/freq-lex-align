@@ -19,7 +19,7 @@
 -ful 
 -less 
 -able 
--ee -
-or 
+-ee 
+-or 
 -lly 
 -ly
